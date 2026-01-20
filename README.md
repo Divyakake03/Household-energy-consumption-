@@ -38,7 +38,7 @@ This project focuses on analyzing and predicting household electricity consumpti
 
 ##  Results
 - **Peak Usage Hours:** 6 PM – 9 PM.  
-- **Best Performing Model:** Mean Absolute Error MSE=  
+- **Best Performing Model:** Mean Absolute Error MSE= 9.0
 - **Insights:** Significant seasonal variation in energy usage (higher during winters due to heating).
 
   <img width="2000" height="1000" alt="plot_output" src="https://github.com/user-attachments/assets/d10aaabb-e512-4957-8503-b7895047ff4d" />
